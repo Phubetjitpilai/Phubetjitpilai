@@ -22,10 +22,16 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
   </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.gstatic.com/devrel-devsite/prod/v8a38e499423b6e64664446c6bb8c3f06d3bbb8c3153ec81b5cfa22b086049d9c/tensorflow/images/lockup.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
   <a href="http://gazebosim.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" alt="gazebo" width="40" height="40"/>
   </a>
-   <a href="https://moveit.ai/" target="_blank" rel="noreferrer">
+  <a href="https://moveit.ai/" target="_blank" rel="noreferrer">
     <img src="https://moveit.ai/assets/logo/moveit_logo-white.png" alt="moveit" width="160" height="160"/>
+  </a>
+  <a href="https://www.ultralytics.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e13_logo.svg" alt="Yolo" width="160" height="160"/>
   </a>
 </p>
