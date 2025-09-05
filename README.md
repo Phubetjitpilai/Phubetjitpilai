@@ -40,4 +40,7 @@
    <a href="https://moveit.ai/" target="_blank" rel="noreferrer">
     <img src="https://moveit.ai/assets/logo/moveit_logo-white.png" alt="moveit" width="160" height="160"/>
   </a>
+    <a href="[http://gazebosim.org/](https://www.autodesk.com/products/fusion-360/overview#top)" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Fusion360_Logo.svg/512px-Fusion360_Logo.svg.png?20250830031414" alt="fusion360" width="40" height="40"/>
+  </a>
 </p>
