@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.ros.org/imgs/logo-white.png" alt="ros2" width="100" height="100"/>
+    <img src="https://www.ros.org/imgs/logo-white.png" alt="ros2" width="120" height="120"/>
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
