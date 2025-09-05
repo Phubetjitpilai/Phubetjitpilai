@@ -37,4 +37,7 @@
   <a href="http://gazebosim.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" alt="gazebo" width="40" height="40"/>
   </a>
+   <a href="https://moveit.ai/" target="_blank" rel="noreferrer">
+    <img src="https://moveit.ai/assets/logo/moveit_logo-black.png" alt="gazebo" width="40" height="40"/>
+  </a>
 </p>
