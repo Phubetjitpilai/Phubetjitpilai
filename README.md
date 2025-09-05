@@ -38,6 +38,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" alt="gazebo" width="40" height="40"/>
   </a>
    <a href="https://moveit.ai/" target="_blank" rel="noreferrer">
-    <img src="https://moveit.ai/assets/logo/moveit_logo-white.png" alt="moveit" width="100" height="100"/>
+    <img src="https://moveit.ai/assets/logo/moveit_logo-white.png" alt="moveit" width="150" height="150"/>
   </a>
 </p>
