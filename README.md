@@ -34,4 +34,17 @@
   <a href="http://gazebosim.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" alt="gazebo" width="40" height="40"/>
   </a>
+    </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Matlab_Logo.svg/1024px-Matlab_Logo.svg.png" alt="matlab" width="40" height="40"/>
+  </a>
+  <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Fusion_360_Logo.svg" alt="fusion360" width="40" height="40"/>
+  </a>
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/STM32CubeIDE_logo.svg/600px-STM32CubeIDE_logo.svg.png" alt="stm32cubeide" width="40" height="40"/>
+  </a>
+  <a href="https://moveit.ros.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/ros-planning/moveit/kinetic-devel/moveit_core/resources/logo.png" alt="moveit" width="40" height="40"/>
+  </a>
 </p>
